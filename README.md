@@ -4,6 +4,7 @@
 
 **Seminar:** Privacy and Security in Critical Infrastructure  
 **Presenters:** Nandana Harikumar  ,  Dias Amitullayev
+
 **Research Focus:** 5G NR Public Warning System (PWS) · 3GPP TS 38.331 Protocol Analysis
 
 ---
